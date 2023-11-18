@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="io.github.openunirest.object.mappers.jackson" type="repository">
+    <properties maven-id="io.github.openunirest:object-mappers-jackson:3.0.02" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/openunirest/object-mappers-jackson/3.0.02/object-mappers-jackson-3.0.02.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

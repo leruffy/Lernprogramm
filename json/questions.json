@@ -1,0 +1,1989 @@
+{
+ "questions": {
+  "0": "Wie können Sie die Benutzungsoberfläche des SAP GUI personalisieren?",
+  "1": "Welche der folgenden Elemente können einer Favoritenliste im SAP GUI hinzugefügt werden?",
+  "2": "Welche der folgenden Elemente sind Bestandteil des SAP-Bildaufbaus im SAP GUI?",
+  "3": "Wie können Sie den Transaktionscode einer Transaktion im SAP GUI ermitteln?",
+  "4": "Welche Optionen für die Navigation im SAP GUI stehen zur Verfügung?",
+  "5": "Bei Belegen handelt es sich um elektronische Datensätze von Transaktionen, die alle wichtigen vordefinierten Informationen aus den Stammdaten und den Organisationselementen enthalten.",
+  "6": "Welche der folgenden Informationen können in der SAP-GUI-Statusleiste im Standardsystem angezeigt werden?",
+  "7": "Der SAP Business Client bietet verschiedene Verbindungstypen und unterstützt die folgenden Einrichtungen:",
+  "8": "Um sich an dem SAP Buisiness Client, im Anmeldebildschirm, anzumelden, müssen Sie folgende Angaben machen:",
+  "9": "Das Bild: SAP Easy Access stellt das Standardeinstiegsbild in SAP-Systemen dar. In ihm finden sie unter anderem:",
+  "10": "Im SAP-System stehen zwei Formate zur Verfügung, in denen Sie ein Menü mit Transaktionen, Reports oder webbasierten Anwendungen anzeigen können.",
+  "11": "Sie haben mehrere Möglichkeiten zur Personalisierung Ihrer Arbeitsumgebung im SAP GUI durchzuführen. Welche der folgenden existieren tatsächlich?",
+  "12": "Was sind einige Merkmale der Zuordnung von Stammdaten zu Organisationseinheiten?",
+  "13": "Welche der nachfolgenden Einheiten sind Geschäftspartnertypen?",
+  "14": "Was sind die Merkmale des Geschäftspartnerstammsatzes",
+  "15": "Welche der nachfolgenden Organisationseinheiten existieren in einem SAP-System?",
+  "16": "Der Mandant ist die Organisationseinheit der höchsten Ebene. Er steht für das Unternehmen bzw. die Unternehmenszentrale.",
+  "17": "Der Buchungskreis ist eine bilanzierende Einheit, die die zentrale Organisationseinheit in der Finanzbuchhaltung darstellt. Der Buchungskreis bestimmt die (nationale) steuerrechtliche Sicht des Unternehmens, den Geschäftskalender, die Hauswährung und die Anforderungen an das Steuerberichtswesen.",
+  "18": "Welche Aussagen zum Produktstammdaten sind zutreffend?",
+  "19": "Welche Eingaben bei Kundenaufträgen sind obligatorisch?",
+  "20": "Was ist der nächste Schritt nach der Kommissionierung?",
+  "21": "Welche Referenz können Sie zum Anlegen eines Kundenauftrags verwenden?",
+  "22": "Was ist die richtige Reihenfolge für die Kundenauftragsabwicklung?",
+  "23": "Für welche der folgenden Prozesse ist die Rückmeldung eine Voraussetzung?",
+  "24": "Was geschieht, wenn ein Warenausgang für eine Lieferung gebucht wird?",
+  "25": "Wie lautet die richtige Reihenfolge des Beschaffungszyklus?",
+  "26": "Welcher der folgenden Werte ist beim Anlegen einer Bestellung optional?",
+  "27": "Was sollten Sie in Bezug auf Rückmeldungen beachten?",
+  "28": "Was sind die wichtigsten Aspekte der Bestandsführung?",
+  "29": "Was ist die Folge, wenn eine Abweichung zwischen einer Bestellung und einem Rechnungseingang die festgelegte Toleranz überschreitet?",
+  "30": "Welche Funktionen sind in der SAP-Fiori-App: Fakturen anlegen verfügbar?",
+  "31": "Was ist bei der Freigabe von Fertigungsaufträgen möglich?",
+  "32": "Was müssen Sie in Bezug auf Auslieferungen in der Kundenauftragsabwicklung beachten?",
+  "33": "Eine Warenlieferung sollte stets zuerst einer Qualitätsprüfung unterzogen werden. Wie können Sie das beim Buchen des Wareneingangs berücksichtigen?",
+  "34": "Was ist die richtige Transaktionsabfolge für das Fertigungsszenario?",
+  "35": "Woran erkennen Sie, dass die Anwendungen in SAP Logistik (SAP S/4HANA) vereinfacht wurden?",
+  "36": "Sie bearbeiten einen Kundenauftrag, der bereits fakturiert wurde. Wo finden Sie die FI-Einzelposten zum Fakturabeleg",
+  "37": "Was müssen Sie auswählen, um einen Planprimärbedarf anzulegen?",
+  "38": "Welche der folgenden Funktionen sind in der Lösung „Operative Beschaffung“ enthalten?",
+  "39": "Welche Analysefunktionen bietet die SAP-Fiori-App „Bilanz/GuV anzeigen“?",
+  "40": "Was sind die Merkmale eines Kontenplans?",
+  "41": "Welche sind die Hauptaufgaben der Hauptbuchhaltung im SAP-System?",
+  "42": "Welches der folgenden Objekte wird stets statistisch gebucht?",
+  "43": "Was ist die korrekte Abfolge im Prozess: Zahlung in der Kreditorenbuchhaltung?",
+  "44": "Was sind die wichtigsten Aspekte von Sachkonten?",
+  "45": "Was sollten Sie beim Zuordnen von Organisationseinheiten in der Buchhaltung beachten?",
+  "46": "Was bestimmt, ob eine Buchung eine Istbuchung oder eine statistische Buchung ist?",
+  "47": "Welches Objekt kann mittels Umsatzkostenverfahren oder Gesamtkostenverfahren analysiert werden?",
+  "48": "Welche Analysefunktionen bietet die SAP-Fiori-App: Sachkontenstammdaten verwalten?",
+  "49": "Welche der folgenden Nebenbücher sind über Abstimmkonten mit dem Hauptbuch verknüpft?",
+  "50": "Welche Funktionen bietet die SAP-Fiori-App: Forderungen bearbeiten?",
+  "51": "Für welche der folgenden CO-Objekte können Istbuchungen und statistische Buchungen vorgenommen werden?",
+  "52": "Was ist die höchste Berichtsebene für die Profitabilität?",
+  "53": "Was sind Merkmale der Debitorenbuchhaltung?",
+  "54": "Welche der folgenden Funktionen bietet die SAP-Fiori-App „Kostenstellen – Ist“?",
+  "55": "Was sind die Merkmale von Buchungsbelegen?",
+  "56": "Was wird für die Strukturierung von Sachkonten verwendet?",
+  "57": "Wie wird der Buchungskreis vom System ermittelt, wenn man eine Warenbewegung innerhalb eines Werkes bucht?",
+  "58": "Welche der folgenden Schritte sind obligatorisch, wenn man sich in einen SAP-System anmelden möchte?",
+  "59": "Welche Aussagen beschreiben die Merkmale von Stammdaten richtig?",
+  "60": "Welche Aussage trifft für einen Buchungskreis zu?",
+  "61": "Welche Aussage trifft zu?",
+  "62": "Welcher der folgenden Sätze beschreibt SAP Fiori zutreffend?",
+  "63": "Was sind interne Systemfunktionen der SAP-HANA-Datenbank?",
+  "64": "Welche der folgenden Bereiche umfasst SAP S/4HANA Strategic Analytics?",
+  "65": "Warum hat die SAP-HANA-Datenbank einen geringeren Speicherbedarf?",
+  "66": "Inwiefern vereinfacht die SAP-HANA-Plattform das Reporting?",
+  "67": "Welche Option steht SAP-Kunden zur Verfügung, die keine eigene komplexe IT-Landschaft verwalten möchten?",
+  "68": "Welche der folgenden technologischen Vorteile (Hardware) haben zur Entwicklung von SAP S/4HANA beigetragen?",
+  "69": "Welche der folgenden Faktoren sind Gründe dafür, dass die digitale Welt komplexer und nicht einfacher wird?",
+  "70": "Was sind einige Aspekte von Organisationseinheiten?",
+  "71": "Überprüfen Sie die folgenden Aussagen.",
+  "72": "Teil von SAP S/4HANA sind, unter anderem …",
+  "73": "SAP S/4HANA unterstützt Benutzer in den vier Phasen ihrer Entscheidungsfindung.",
+  "74": "Vorteile des Cloud Computings sind.",
+  "75": "Welche Personalisierungsoptionen sind im SAP Fiori Launchpad verfügbar?",
+  "76": "Eine App, die in einem Katalog enthalten ist, dem Sie zugeordnet sind, wird nicht in ihrem SAP Fiori Launchpad angezeigt. Woran könnte das liegen?",
+  "77": "Was sind einige Merkmale des SAP-Fiori-Designs: Belize?",
+  "78": "Welche Objekte des SAP Fiori Launchpad können einander zugeordnet werden?",
+  "79": "Welche der folgenden Elemente sind Einstellungsebenen für das SAP Fiori Launchpad?",
+  "80": "Eine App wird nicht im App-Finder angezeigt. Woran könnte das liegen?",
+  "81": "Über welche Funktion kopieren Sie eine SAP-Fiori-App aus der SAP-Bibliothek in ihr SAP-Fiori-Launchpad?",
+  "82": "Was sind einige Designprinzipien von SAP Fiori?",
+  "83": "Ein Benutzer möchte Kacheln aus Bereichsseiten im SAP Fiori Launchpad anzeigen. Welche Objekte müssen Sie diesem Benutzer unter Verwendung von Rollen zuordnen?",
+  "84": "Eine Kachel von einer Bereichsseite wird nicht im SAP Fiori Launchpad für einen Benutzer angezeigt. Woran kann das liegen?",
+  "85": "Welche der folgenden Benutzertypen lassen sich bezüglich ihrer Anforderung an die Benutzeroberfläche unterscheiden?",
+  "86": "Vorteile bei der Nutzung von SAP Fiori sind:",
+  "87": "Welches Werkzeug in S/4HANA Embedded Analytics wird von SAP für den BI-Self-Service empfohlen?",
+  "88": "Welche Merkmale weist der Client für mehrdimensionales Reporting (MDRC) auf?",
+  "89": "Welche BI-Werkzeuge werden Anwendungsexperten in SAP S/4HANA Embedded Analytics zur Verfügung gestellt?",
+  "90": "Was ist ein Merkmal virtueller Datenmodelle (VDM)?",
+  "91": "Welche der folgenden Werkzeuge sind im Lieferumfang von SAP S/4HANA Embedded Analytics enthalten?",
+  "92": "Welche Analysefunktionen bietet SAP Smart Business?",
+  "93": "Welche der folgenden Analysewerkzeuge sind in der Lizenz für SAP S/4HANA enthalten?",
+  "94": "Wodurch zeichnen sich die Embedded Analytics Funktionen in S/4HANA aus?",
+  "95": "Bei herkömmlichen Systemen werden Bewegungsdaten regelmäßig mit den ETL-Schritten (Extraktion, Transformation und Laden) aus transaktionalen Systemen (OLTP) in eigene Analysesysteme (OLAP) verschoben.",
+  "96": "Mit SAP S/4HANA werden OLTP und OLAP auf einer einzelnen In-Memory-Plattform miteinander kombiniert.",
+  "97": "Vorteil von SAP S/4HANA Embedded Analytics sind:",
+  "98": "Welche Trends sorgen dafür, dass die Business Suite für die digitale Welt neu aufgebaut  werden muss?",
+  "99": "Warum wurde der Anwendungscode für SAP S/4HANA neu geschrieben?",
+  "100": "Wie lautet der Name für die Kernlösungen von SAP S/4HANA?",
+  "101": "Was ist SAP Fiori?",
+  "102": "Bei welcher Edition sind umfangreiche Kundenänderungen möglich?",
+  "103": "Bonusfrage: Was bedeutet das Wort Fiori? (Hinweis: Es handelt sich um ein italienisches  Wort.)",
+  "104": "Nennen Sie einige der Vorteile von SAP Fiori.",
+  "105": "Der Benutzer kann das Erscheinungsbild des Shell- und Content-Bereichs in SAP Business  Client 7.70 anpassen, indem er das Theme in den persönlichen Einstellungen wechselt.",
+  "106": "Welches der folgenden Oberflächenelemente enthält allgemeine Informationen über das  SAP-System und die aktuelle Transaktion oder Aufgabe?",
+  "107": "Im Menü „SAP Easy Access“ können Sie eine Liste mit Favoriten anlegen, die Folgendes  enthalten kann:",
+  "108": "Sie möchten einen Wert für ein Feld voreinstellen, das Sie häufig ausfüllen müssen. Hierzu  benötigen Sie die Parameter-ID. Welche Hilfefunktion würden Sie zum Suchen der  Parameter-ID verwenden, wenn Sie das Feld ausfüllen möchten?",
+  "109": "Welches ist die höchste Ebene aller Organisationseinheiten und stellt das Unternehmen  oder die Firmenzentrale dar?",
+  "110": "Organisationselemente bilden die Unternehmensstruktur im SAP-System für rechtliche  und/oder betriebswirtschaftliche Zwecke ab.",
+  "111": "Welche der folgenden Elemente sind Beispiele für Organisationselemente?",
+  "112": "Welche der folgenden Aussagen über Stammdaten treffen zu?",
+  "113": "Transaktionen sind Anwendungsprogramme, die Geschäftsprozesse im SAP-System  ausführen.",
+  "114": "Welcher der folgenden Begriffe bezeichnet einen elektronischen Datensatz aus  Transaktionen, der alle vordefinierten Informationen aus den Stammdaten und  Organisationselementen enthält?",
+  "115": "Welches ist der grundlegende Beschaffungsprozess in einem SAP-System?",
+  "116": "Was geschieht, wenn Sie eine Rechnung mit Bestellbezug erfassen?",
+  "117": "Welche der folgenden Prozesse (Anwendungen) sind Bestandteil der  Produktionsprozesse?",
+  "118": "Welche Arten von Informationen sind im Fertigungsauftrag verfügbar?",
+  "119": "Nennen Sie den Schritt innerhalb der Produktionsdurchführung, der es ermöglicht, die  Istzeit und die Fertigungsleistungen der während des Produktionsprozesses  durchgeführten Vorgänge zu erfassen.",
+  "120": "Welcher der folgenden Vorgänge ist der richtige Prozess für die  Kundenauftragsabwicklung?",
+  "121": "Welche Aktivitäten sind aus einem Lieferbeleg heraus möglich?",
+  "122": "Aus welchen beiden Belegarten heraus kann eine Faktura angelegt werden?",
+  "123": "___________ ist eine Struktur, die Wertebewegungen in einem Buchungskreis erfasst und  die Hauptbuchpositionen in einem Kontenplan darstellt.",
+  "124": "Welche Organisationseinheit in der Ergebnis- und Marktsegmentrechnung (CO-PA) ist die  höchste Berichtsebene für das Ergebnis-, Vertriebs- und Marketingcontrolling?",
+  "125": "Die Zuordnung von Mitarbeitern zu Organisations-, Unternehmens- und  Personenstrukturen erfolgt über den Infotyp Organisatorische Zuordnung (0001).",
+  "126": "Durch die hochgradige Integration mit anderen SAP-Komponenten ist das  Veranstaltungsmanagement ein ideales Tool für die ständige Erweiterung und  Aktualisierung der Mitarbeiterkenntnisse.",
+  "127": "Welche Werkzeuge richten sich bei SAP S/4HANA Embedded Analytics an Endbenutzer?",
+  "128": "Welche der folgenden Werkzeuge werden in der Regel von Key-Usern verwendet, um  verschiedene Analysen in SAP S/4HANA Embedded Analytics zu entwickeln?",
+  "129": "Was bietet ein virtuelles Datenmodell?",
+  "130": "Welches sind die drei Säulen von SAP Activate?",
+  "131": "Welches sind die drei Implementierungsszenarien von SAP Activate?",
+  "132": "Im SAP Support Portal können Kunden und Partner SAP-Serviceleistungen über das  Internet bestellen.",
+  "133": "SAP Training and Adoption bietet nur Präsenzschulungen an.",
+  "134": "Was ist die Motivation für die Entwicklung von SAP S/4HANA Enterprise Management?",
+  "135": "Welche Aussagen zum SAP-S/4HANA-System treffen zu?",
+  "136": "Welche globalen Trends könnten einen Kunden zur Implementierung von SAP S/4HANA  Enterprise Management motivieren?",
+  "137": "Welche Personalisierungselemente können Benutzerrollen zugeordnet werden?",
+  "138": "Welches Personalisierungselement bezieht sich auf die Anwendung?",
+  "139": "Welche UI-Technologie bedient ihre Anwendung mithilfe von SAP Gateway?",
+  "140": "Welche Einstellungsschichten sind für SAP Fiori verfügbar?",
+  "141": "Woraus besteht eine Absicht für die absichtsbasierte Navigation?",
+  "142": "Was kann als Ziel in einer Zielzuordnung verwendet werden?",
+  "143": "Welche Objekte können gleichzeitig im SAP Fiori Launchpad angezeigt werden?",
+  "144": "Welches Objekt kann in Abschnitte unterteilt werden?",
+  "145": "Warum wurde der Anwendungscode für SAP S/4HANA komplett neu geschrieben?",
+  "146": "SAP S/4HANA kann ohne Weiteres in Business-Networks-Anwendungen wie die  folgenden integriert werden:",
+  "147": "Welchen Funktionen von SAP HANA hat SAP S/4HANA eine deutliche Reduzierung des  Datenspeicherbedarfs zu verdanken?",
+  "148": "Wodurch ist die Architektur einer einfachen Anwendung gekennzeichnet?",
+  "149": "Der Aufbau eines intelligenten Unternehmens bedeutet, dass Unternehmen eine neue  Plattform für Kerngeschäftsprozesse entwickeln und Geschäftsprozesse mit Analysen in  Echtzeit zusammenführen.",
+  "150": "Was sind die wichtigsten Funktionen von SAP Cloud Platform?",
+  "151": "Welche Arten von SAP-Fiori-Apps gibt es?",
+  "152": "Für SAP Fiori darf nur eine Teilmenge aus allen Designelementen in der SAPUI5-Bibliothek  verwendet werden.",
+  "153": "SAP Screen Personas sind sowohl in der On-Premise- als auch in der Cloud-Edition von  SAP S/4HANA verfügbar.",
+  "154": "Sie möchten Ihre Abwesenheitsanträge aus SAP SuccessFactors und Ihre  Bestellanforderungen aus SAP S/4HANA an einem einzigen Ort anzeigen. Dazu können  Sie ein Gespräch mit SAP CoPilot führen.",
+  "155": "Welche aktuellen Trends bei der Hardwarearchitektur macht sich SAP HANA zunutze?",
+  "156": "Welche Art der Tabellenspeicherung unterstützt SAP HANA?",
+  "157": "Welche Art von Aufgaben übernimmt SAP HANA in der Regel vom Anwendungsserver?",
+  "158": "Obwohl SAP HANA eine In-Memory-Datenbank nutzt, werden Daten weiterhin auf der  Festplatte gespeichert.",
+  "159": "SAP HANA erstellt alle paar Minuten automatisch einen Snapshot des gesamten  Hauptspeichers und speichert diesen in einer Festplattenschicht. Dieser Snapshot wird  bezeichnet als ____________.",
+  "160": "Bei einem Standby-Server kann es sich um ein Hot-Standby-System handeln, das sofort  einsatzbereit ist und nicht erst gestartet werden muss.",
+  "161": "In SAP S/4HANA Enterprise Management wurde für folgende Rollen ein neues, flexibles  Design der Benutzerfreundlichkeit implementiert:",
+  "162": "Vertriebs-KPIs sind in SAP Cloud Analytics integriert.",
+  "163": "Kundeninteraktionen und paketierte Serviceangebote unterstützen eine effiziente  Problemlösung durch Multichannel-Kundeninteraktionen und intelligente  Vorgehensweisen.",
+  "164": "Was sind die Funktionen des erweiterten Available-to-Promise?",
+  "165": "Mit MRP Live kann der Disponent Bedarf und Nachfrage effizienter als bisher abgleichen.",
+  "166": "SAP-Fiori-Apps helfen bei der Verwaltung von Lieferantenrechnungen und Zahlsperren.",
+  "167": "__________ nutzt die Verwaltung eingebetteter Software für eine ganzheitliche  Produktmodellierung.",
+  "168": "Die Instandhaltungsplanung und -terminierung prüft laufende Instandhaltungsleistungen  und bietet die Möglichkeit, mehrmals täglich umzuplanen.",
+  "169": "Das Universal Journal stellt die zentrale Datenquelle in SAP Simple Finance dar.",
+  "170": "Die Geschäftsfunktionen für das Arbeitszeitblatt und das Organisationsmanagement  integrieren HR-Informationen zu Verfügbarkeit und Istarbeitszeiten in logistische  Prozesse.",
+  "171": "Die Liste der Vereinfachungen ist ein wichtiges Dokument, das in der  Implementierungsphase verwendet wird und für alle Kunden relevant ist.",
+  "172": "Ermitteln Sie die Funktionen von in SAP S/4HANA integrierten Analysefunktionen. Wählen Sie die richtigen Antworten.",
+  "173": "Was bietet ein virtuelles Datenmodell",
+  "174": "Aus welchen der folgenden Komponenten besteht das virtuelle Datenmodell von SAP S/ 4HANA?",
+  "175": "__________ ist ein leistungsstarkes Reportingwerkzeug, mit dem einfache, Excel-basierte  Berichte bis hin zu den fortschrittlichsten, hochgradig formatierten Berichten erstellt  werden können.",
+  "176": "Welche Werkzeuge werden von IT-Benutzern in SAP S/4HANA Embedded Analytics  verwendet?",
+  "177": "Warum ist SAP BW noch erforderlich, wenn wir doch mit SAP S/4HANA Embedded  Analytics arbeiten können?",
+  "178": "Mit SAP S/4HANA Readiness Check erhalten Sie separate Berichte, um die Bereitschaft  Ihres ERP-Produktivsystems hinsichtlich der Umstellung auf SAP S/4HANA zu prüfen.",
+  "179": "Welche Implementierungsszenarien sind von SAP Activate abgedeckt? (Es gibt drei  richtige Antworten.)",
+  "180": "Bringen Sie die folgenden Phasen der SAP-Activate-Methodik in die richtige Reihenfolge.",
+  "181": "SAP-Best-Practices-Inhalte für SAP S/4HANA bestehen aus den folgenden Schichten:",
+  "182": "Welche Prüfungen Ihres kundenspezifischen ABAP-Codes müssen Sie vor der  Konvertierung vornehmen?",
+  "183": "Die in SAP S/4HANA integrierte Datenmigrationssoftware der nächsten Generation  erfordert Programmierungsarbeit durch den Kunden."
+ },
+ "answers": {
+  "0": [
+   "Neue Transaktionscodes anlegen",
+   "Statusmeldungen in Dialogfenstern anzeigen",
+   "Bevorzugte Transaktionen in verschiedenen Farben markieren",
+   "Das Layout des Bilds: SAP EASY ACCESS ändern",
+   "Farben sowie das Verhalten der Bilder und Felder anpassen"
+  ],
+  "1": [
+   "E-Mail-Adressen",
+   "Internetadressen",
+   "Verknüpfungen zu Dateien",
+   "Kurzschlüssel",
+   "Transaktionen"
+  ],
+  "2": [
+   "Programme",
+   "Systemfunktionsleiste",
+   "Transaktionstest",
+   "Kommandofeld",
+   "Registerkarte"
+  ],
+  "3": [
+   "Den Transaktionscode aus dem Business Workplace lesen",
+   "Den Transaktionscode in der Statusleiste anzeigen lassen",
+   "Den Transaktionscode in der Titelleiste lesen",
+   "Den Transaktionscode in der Anwendung ermitteln, indem Sie System – Status wählen"
+  ],
+  "4": [
+   "Auf die gewünschte App klicken",
+   "Einträge aus der Favoritenliste auswählen",
+   "Einen Transaktionscode in das Befehlsfeld eingeben",
+   "Programm-ID in das Befehlsfeld eingeben"
+  ],
+  "5": [
+   "Falsch",
+   "Richtig"
+  ],
+  "6": [
+   "Programmname",
+   "Antwortzeit",
+   "Benutzer-ID",
+   "Name des Unternehmens",
+   "Uhrzeit"
+  ],
+  "7": [
+   "Systemverbindungstyp SAP Fiori Launchpad",
+   "Systemverbindungstyp SAP Business Client",
+   "Systemverbindungstyp SAP Logon",
+   "Systemverbindungstyp SAP Easy Access"
+  ],
+  "8": [
+   "System",
+   "Mandant",
+   "Benutzer",
+   "Kennwort",
+   "Sprache"
+  ],
+  "9": [
+   "Das SAP Menü",
+   "Die Statuszeile",
+   "Das Befehlsfeld / Kommandofeld",
+   "Die Anwendungsfunktionsleiste mit dem Befehlsfeld"
+  ],
+  "10": [
+   "SAP-Standardmenü",
+   "Rollenbasiertes Benutzermenü",
+   "Personalisiertes Menü",
+   "Rollenmenü"
+  ],
+  "11": [
+   "Das Layout des Bilds „SAP Easy Access“ ändern",
+   "Die Eingabehistorie protokollieren, um Eingabehilfen zu erhalten",
+   "Statusmeldungen in Dialogfenstern statt in der Statusleiste anzeigen",
+   "Eigene, persönliche Bilder in SAP Easy Access einblenden",
+   "Favoriten in Ordnern zu organisieren"
+  ],
+  "12": [
+   "Der Vertriebsbereich umfasst ausschließlich die Verkaufsorganisation und den Vertriebsweg",
+   "Die Parameter für die Bestandsbewertung sind werksbezogen",
+   "Die Sichten in einem Materialstamm können mehreren Organisationseinheiten zugeordnet werden",
+   "Alle logistischen Stammdaten sind werksbezogen"
+  ],
+  "13": [
+   "Einzelunternehmen",
+   "Konzern",
+   "Person",
+   "Organisation",
+   "Gruppe"
+  ],
+  "14": [
+   "Geschäftspartner können in manchen Prozessen als Debitor und in anderen als Kreditor agieren",
+   "Debitoren- und Kreditorenstammdaten können in S4/HANA in einer einzigen Transaktion gepflegt werden",
+   "Debitoren- und Kreditorenstammdaten müssen in SAP S4/HANA in separaten Transaktionen gepflegt werden",
+   "Die Vertriebsdaten für Debitoren werden im SD-Modul gepflegt"
+  ],
+  "15": [
+   "System",
+   "Mandant",
+   "Werk",
+   "Vertriebsweg"
+  ],
+  "16": [
+   "Richtig",
+   "Falsch"
+  ],
+  "17": [
+   "Richtig",
+   "Falsch"
+  ],
+  "18": [
+   "Produktstammdaten werden durch die Mitarbeiter des Einkaufs angelegt und gepflegt.",
+   "Die Produktstammdaten (Materialstamm) enthalten alle wichtigen Informationen, die ein Unternehmen benötigt, um ein Material innerhalb seiner Organisation zu verwalten.",
+   "Die Produktstammdaten (Materialstamm) definieren unter anderem, wie ein Produkt vertrieben, hergestellt, eingekauft, eingelagert, abgerechnet und kalkuliert wird.",
+   "Die Informationen in den Produktstammdaten (Materialstamm) sind in Sichten gruppiert, die nach Business Function organisiert sind."
+  ],
+  "19": [
+   "Vertriebsbereich",
+   "Kundenreferenz",
+   "Kundenmaterialnummer",
+   "Auftraggeber (Kunde)",
+   "Werk"
+  ],
+  "20": [
+   "Aktualisierung der Liefermenge",
+   "Fakturabeleg",
+   "Aktualisierung des Kundenauftrags",
+   "Warenausgang"
+  ],
+  "21": [
+   "Bezug auf ein Angebot",
+   "Bezug auf eine Anfrage",
+   "Bezug auf einen Fertigungsauftrag",
+   "Bezug auf eine Artikelnummer"
+  ],
+  "22": [
+   "Kundenauftrag – Kommissionierung – Fakturabeleg – Auslieferung",
+   "Kundenauftrag – Auslieferung – Kommissionierung – Warenausgang – Fakturabeleg",
+   "Kommissionierung – Kundenauftrag – Auslieferung – Fakturabeleg",
+   "Kundenauftrag – Kommissionierung – Auslieferung – Fakturabeleg – Warenausgang"
+  ],
+  "23": [
+   "Wareneingangsbuchung",
+   "Warenausgangsbuchung",
+   "Erfassung erbrachter Eigenleistungen zu einem Auftrag",
+   "Fortschrittsprüfung eines Auftrags"
+  ],
+  "24": [
+   "Der Fakturabeleg wird automatisch angelegt und direkt zum Arbeitsvorrat des Lagerarbeiters hinzugefügt",
+   "Der Lagerbestand wird reduziert",
+   "Der Auslieferungsauftrag wird automatisch rückgemeldet",
+   "Die Bedarfe werden um die Liefermenge reduziert"
+  ],
+  "25": [
+   "Lieferantenauswahl – Bedarfsermittlung – Bestellung – Wareneingang – Rechnungsprüfung",
+   "Bedarfsermittlung -Lieferantenauswahl – Bestellung– Wareneingang – Rechnungsprüfung",
+   "Lieferantenauswahl – Bestellung – Wareneingang – Zahlungsbearbeitung",
+   "Auftragsabwicklung – Lieferantenauswahl – Rechnungsabwicklung – Wareneingang"
+  ],
+  "26": [
+   "Einkaufsorganisation",
+   "Lagerort",
+   "Kreditor",
+   "Werk"
+  ],
+  "27": [
+   "Rückmeldungen sind nur bei Verwendung eines Manufacturing Execution System (MES) möglich",
+   "HCM- und Personaldaten können mit der Rückmeldung aktualisiert werden",
+   "Rückmeldungen können auch manuell eingegeben werden",
+   "Es können keine Materialbelege mit der Rückmeldung angelegt werden"
+  ],
+  "28": [
+   "Die Profitabilität von Produkten wird in Echtzeit berechnet",
+   "Kosten können durch einen kontinuierlichen Fortschreibungslauf zeitnah analysiert werden",
+   "Extensive Bestandsbewegungen werden stets als Batch-Prozess ausgeführt",
+   "Kleinere Losgrößen können nach Bedarf verarbeitet werden",
+   "Da die Bestandsführung in Echtzeit erfolgt, sind keine Pufferbestände zum Ausgleich von Ungenauigkeiten mehr erforderlich"
+  ],
+  "29": [
+   "Der Rechnungseingang kann über die Funktion: Akzeptieren und buchen gebucht werden",
+   "Der Rechnungseingang kann nicht gesichert werden",
+   "Der Rechnungseingang kann nur gesichert werden, wenn die Abweichung innerhalb der festgelegten Toleranzen liegt",
+   "Das System gibt eine Informationsmeldung aus, und Sie können entscheiden, ob Sie die Rechnung sichern möchten"
+  ],
+  "30": [
+   "Simulation",
+   "Prognose",
+   "Sammelfaktura / Hintergrund",
+   "Einzelfaktura",
+   "Sammelfaktura"
+  ],
+  "31": [
+   "Ein Auftrag kann vollständig freigegeben werden",
+   "Die Auftragsfreigabe für mehrere Aufträge ist nur für Sammelaufträge möglich",
+   "Alle Aufträge in allen Werken können zeitgleich freigegeben werden",
+   "Die zeitgleiche Freigabe von mehreren Aufträgen ist nur mit Hintergrundverarbeitung möglich"
+  ],
+  "32": [
+   "Der Warenausgangsbeleg für die Auslieferung kann manuell geändert werden",
+   "Auslieferungen können Teillieferungen sein",
+   "Auslieferungen können automatisch generiert werden",
+   "Auslieferungen können über Arbeitsvorräte generiert werden",
+   "Auslieferungen können keine Lieferkombinationen sein"
+  ],
+  "33": [
+   "Sie buchen den Wareneingang auf den Lagerort: Qualitätsprüfung",
+   "Sie buchen den Wareneingang auf einen separaten Lagerort",
+   "Sie buchen den Wareneingang und geben die Lagerbestandsart: Qualitätsprüfung an",
+   "Sie verwenden die Logistics Execution, um den Qualitätsprüfungsprozess einzuschließen"
+  ],
+  "34": [
+   "Auftragsanlage – Kapazitätsprüfung – Auftragsfreigabe – Materialbereitstellung – Rückmeldung – Wareneingang",
+   "Auftragsanlage – Materialbereitstellung – Auftragsfreigabe – Auftragsrückmeldung – Wareneingang",
+   "Kapazitätsplanung – Auftragsanlage – Auftragsfreigabe – Materialbereitstellung – Auftragsrückmeldung – Wareneingang",
+   "Auftragsanlage – Auftragsfreigabe – Kapazitätsprüfung – Auftragsrückmeldung"
+  ],
+  "35": [
+   "Die Planung mit einer Losgröße von 1 ist in der Materialbedarfsplanung möglich",
+   "Die Planung mit einer Losgröße von 1 ist in der Materialbedarfsplanung nicht möglich",
+   "Die plangesteuerte Disposition ist ein Echtzeitprozess",
+   "Verwendung von Logistics Execution"
+  ],
+  "36": [
+   "Springen > Einzelposten",
+   "Belegfluss"
+  ],
+  "37": [
+   "Disponent, Werk, Materialnummer",
+   "Dispositionsbereich, Version, Planungsperiode",
+   "Dispositionsbereich",
+   "Dispositionsbereich, Produktionsversion, Planungsperiode"
+  ],
+  "38": [
+   "Bestellkooperation",
+   "Self-Service-Anforderung",
+   "Beschaffung",
+   "Rechnungsmanagement",
+   "Rechnungsbearbeitung"
+  ],
+  "39": [
+   "Zum Sachkontenstamm navigieren",
+   "Direktanzeige von Belegnummern",
+   "Als PDF exportieren",
+   "Anzeigen der Konten, die nicht der Struktur Bilanz/GuV zugeordnet sind.",
+   "Hauptbuchsalden anzeigen"
+  ],
+  "40": [
+   "Jeder Buchungskreis verwendet exklusiv einen eigenen operativen Kontenplan",
+   "Ein Kontenplan enthält nur Sachkonten, die keine Konteninformationen (Kostenart) aufweisen",
+   "Der Kontenplan ist ein Verzeichnis aller Sachkonten, die von einem oder mehreren Buchungskreisen gemeinsam verwendet werden",
+   "Ein Kontenplan kann mehreren Buchungskreisen zugeordnet sein"
+  ],
+  "41": [
+   "Offene Posten für Kunden analysieren",
+   "Einzelposten und Salden von Konten erzeugen",
+   "Bilanzen unterhalb der Buchungskreisebene (z.B. Segment oder Profitcenter) erstellen",
+   "Bilanzen/GuV für einen Buchungskreis erstellen und anzeigen",
+   "Abschreibungen für das Anlagevermögen berechnen"
+  ],
+  "42": [
+   "Profitcenter",
+   "Kostenstelle",
+   "Projekt",
+   "Innenauftrag"
+  ],
+  "43": [
+   "Zahlweg und Bank auswählen – Positionen zur Zahlung auswählen – Zahlbetrag errechnen – Zahlungsträger drucken – Zahlungsbeleg buchen",
+   "Positionen zur Zahlung auswählen – Zahlweg und Bank auswählen – Zahlungsträger drucken – Zahlungsbeleg buchen",
+   "Zahlweg und Bank auswählen – Positionen zur Zahlung auswählen – Zahlbetrag errechnen – Zahlungsbeleg buchen – Zahlungsträger drucken",
+   "Positionen zur Zahlung auswählen – Zahlweg und Bank auswählen – Zahlungsbeleg buchen – Zahlungsträger drucken"
+  ],
+  "44": [
+   "In SAP S/4HANA können Sie im Hauptbuch auf ein Sachkonto der Kontoart: Sekundärkostenart buchen",
+   "Ein Sachkonto mit der Kontoart: Neutraler Aufwand wird nur in der Finanzbuchhaltung gebucht",
+   "Ein Sachkonto der Kontoart: Primärkosten erfordert beim Buchen eine kostenrechnungsrelevante Kontierung",
+   "Sekundärkosten werden im Controlling und in der Finanzbuchhaltung verwendet"
+  ],
+  "45": [
+   "Das Werk ist dem Kostenrechnungskreis zugeordnet",
+   "Einem Kostenrechnungskreis können mehrere Buchungskreise zugeordnet sein",
+   "Einem Ergebnisbereich können mehrere Kostenrechnungskreise zugeordnet sein",
+   "Die Profitcenter-Rechnung in der Hauptbuchhaltung (neu) ist einem Buchungskreis zugeordnet"
+  ],
+  "46": [
+   "Das Kontierungsobjekt",
+   "Die Wertart",
+   "Die Transaktion",
+   "Die Kostenart"
+  ],
+  "47": [
+   "Kostenstelle",
+   "Innenauftrag",
+   "Projekt",
+   "Profitcenter"
+  ],
+  "48": [
+   "Detailinformationen zum Sachkonto",
+   "Offene Posten",
+   "Marktsegment",
+   "Verwendungsnachweis"
+  ],
+  "49": [
+   "Cash Management",
+   "Kreditorenbuchhaltung",
+   "Bankbezogene Buchhaltung",
+   "Debitorenbuchhaltung",
+   "Anlagenbuchhaltung"
+  ],
+  "50": [
+   "Stammdaten für einen Debitor anzeigen",
+   "Fälligkeitsraster anzeigen",
+   "Übersicht aller offenen Rechnungen eines Debitors",
+   "Belegfluss für Rechnungen anzeigen"
+  ],
+  "51": [
+   "Innenaufträge",
+   "Kostenstellen"
+  ],
+  "52": [
+   "Kostenrechnungskreis",
+   "Gruppe",
+   "Ergebnisbereich"
+  ],
+  "53": [
+   "Die Debitorenbuchhaltung lässt sich mit dem Cashmanagement verknüpfen",
+   "Das System zeichnet nicht jede Buchung in der Debitorenbuchhaltung direkt auch im Hauptbuch (G/L) auf",
+   "Die Debitorenbuchhaltung ist ein Teil des Rechnungswesens",
+   "Die Debitorenbuchhaltung stellt die erforderlichen Daten für das Kreditmanagement bereit",
+   "Debitoren werden im Hauptbuch angelegt und über die Debitoren-/Kreditoren-Schnittstelle in die Nebenbücher kopiert"
+  ],
+  "54": [
+   "Zur Istkostenschichtung der Kalkulation navigieren",
+   "Zuordnung von Merkmalen und Kennzahlen zu Berichtszeilen und -spalten",
+   "Hinzufügen von Feldern zum Drilldown-Bericht",
+   "Zur Einzelkalkulation der Kostenstelle navigieren",
+   "Zum Infoblatt der Kostenstelle navigieren"
+  ],
+  "55": [
+   "Beim Buchen von Aufwänden und Erträgen darf keine kostenrelevante Kontierung verwendet werden",
+   "Der Beleg, der die Buchung auslöst, wird im SAP-System angezeigt",
+   "In jeder Belegposition können mehrere Sachkonten erfasst werden",
+   "Sie besteht aus zwei oder mehr Belegpositionen"
+  ],
+  "56": [
+   "Kontoversion",
+   "Kontenpläne"
+  ],
+  "57": [
+   "Der Buchungskreis wird über die Zuordnung des Werkes zur Einkaufsorganisation ermittelt, da diese Beziehung eindeutig ist.",
+   "Ein Werk ist stets nur einem Buchungskreis zugeordnet und existiert in jedem Mandanten nur einmal. Somit ist die Ableitung von Werk zu Buchungskreis eindeutig.",
+   "Der Buchungskreis wird über die Zuordnung des Werkes zum Materialstamm (Ware) ermittelt, da diese Beziehung 1-zu-N-Beziehung ist.",
+   "Man muss den Buchungskreis bei der Buchung angeben, da eine eindeutige Ableitung nicht möglich ist"
+  ],
+  "58": [
+   "Angabe des Benutzernamens",
+   "Starten des Protokoll-Timers",
+   "Wahl des Systems im Logon-Pad",
+   "Eingabe des Kennwortes",
+   "Angabe des Buchungskreises",
+   "Angabe des Mandanten falls nicht voreingestellt"
+  ],
+  "59": [
+   "Stammdaten sind in Sichten gegliedert, die Organisationselementen zugeordnet sind.",
+   "Sie sind eine Vorlage für Transaktionsdaten.",
+   "Sie werden typischerweise Organisationsebenen zugeordnet",
+   "Stammdaten werden zentral angelegt und sind für alle Anwendungen und alle entsprechend berechtigten Benutzer verfügbar.",
+   "Sie werden auf längere Sicht für verschiedene Geschäftsprozesse verwendet.",
+   "Sie müssen immer auf Buchungskreisebene zugeordnet werden."
+  ],
+  "60": [
+   "Ein Buchungskreis ist die vollständige Organisationseinheit des externen Rechnungswesens, für die ein interner Rechungskreis erstellt werden kann.",
+   "Ein Buchungskreis ist die kleinste Organisationseinheit des externen Rechnungswesens, für die eine vollständige, in sich abgeschlossene Buchhaltung abgebildet werden kann.",
+   "Ein Buchungskreis ist eine Organisationseinheit der Neuen Hauptbuchhaltung, die die Abrechnung nach dem Umsatzkostenverfahren ermöglicht.",
+   "Ein Buchungskreis ist eine technische Organisationseinheit des SAP-Systems, in der die Stammdaten aller Mandanten konsolidiert werden können.",
+   "Ein Buchungskreis ist eine Organisationseinheit der Kostenrechnung, die anhand des Buchungskreises eine CO-Bilanz (Betriebsabrechnungsbogen) erstellt."
+  ],
+  "61": [
+   "Die Auswertung von Dienstleistungen ist Aufgabe der Finanzbuchhaltung.",
+   "Die Bearbeitung und Zahlung von Rechnungen ist Aufgabe der Finanzbuchhaltung.",
+   "Bestellungen werden in der Finanzbuchhaltung angelegt.",
+   "Gutschriften werden in der Finanzbuchhaltung bearbeitet."
+  ],
+  "62": [
+   "Änderungen der Standardtransaktionen erfordern keine Programmierkenntnisse mehr.",
+   "Die Anwendung gewährleistet mandantenübergreifende Transaktionen.",
+   "SAP ist nur noch über die Cloud nutzbar.",
+   "Analytische Apps stellen Insight-to-Action bereit.",
+   "Transaktionscodes können mittels Spracherkennung aufgerufen werden."
+  ],
+  "63": [
+   "Analysen und Prognosen",
+   "Stammdatenpflege",
+   "Text-Mining",
+   "Drucken von Einzelposten"
+  ],
+  "64": [
+   "SAP Business Warehouse",
+   "SAP Lumira, Design Edition",
+   "SAP Smart Business",
+   "SAP Strategic Enterprise Management",
+   "SAP Analysis für Microsoft Office"
+  ],
+  "65": [
+   "Es wurden automatische Data Marts implementiert",
+   "Tabellen werden automatisch komprimiert",
+   "Zahlreiche Tabellen wurden eliminiert",
+   "Die relationale Datenbank ist im Hintergrund verfügbar"
+  ],
+  "66": [
+   "OLTP und OLAP werden auf einer einzelnen In-Memory-Plattform miteinander kombiniert",
+   "Die Analysedaten werden durch periodisch eingeplante Hintergrundjobs aggregiert",
+   "Alle Analysen werden direkt in den Transaktionstabellen durchgeführt",
+   "Die Datenextration erfolgt online und automatisch"
+  ],
+  "67": [
+   "Public Cloud Services (SAP S/4HANA Cloud)",
+   "On-Premise Computing",
+   "Private Cloud",
+   "S/4HANA On Premise"
+  ],
+  "68": [
+   "Optimierter Cache (schnellere Übertragung)",
+   "Optimierte Schnittstellentechnologie",
+   "Die Verbesserung von Cloud-Computing-Technologien",
+   "Verbundene Datenbanken",
+   "Die Vergrößerung von Serverlandschaften (z.B. Prozessorleistung)"
+  ],
+  "69": [
+   "Die Globalisierung und Ausbreitung von Unternehmensnetzwerken",
+   "Die SAP-HANA-Datenbank",
+   "Das Internet der Dinge",
+   "Spaltenorientierte Datenbankstrukturen",
+   "Die exponentielle Zunahme digitaler Daten"
+  ],
+  "70": [
+   "Der Personalbereich ist dem Werk zugeordnet",
+   "Der Mandant ist die Organisationseinheit auf der höchsten Ebene",
+   "Die Materialbestände innerhalb eines Werks werden anhand ihres Lagerorts unterschieden",
+   "Die Mitarbeitergruppe und der Personalbereich sind identisch"
+  ],
+  "71": [
+   "SAP S/4HANA baut auf SAP HANA auf und übernimmt somit alle Funktionen dieser leistungsfähigen Plattform für Datenmanagement und Anwendungen.",
+   "Zu den Funktionen von SAP S/4HANA zählen Vorhersageanalysen und Simulationen.",
+   "SAP S/4HANA kann On-Premise, in der Cloud oder in einer Kombination aus beidem bereitgestellt werden",
+   "Das Datenmodel von SAP S/4HANA musste deutlich vergrößert werden"
+  ],
+  "72": [
+   "SAP Ariba",
+   "SAP SuccessFactors",
+   "SAP Horizons",
+   "SAP Travelways"
+  ],
+  "73": [
+   "Datengewinnung",
+   "Informationsanalyse",
+   "Entscheidungsfindung",
+   "Aktionsausführung",
+   "Wahl der passenden Anwendung"
+  ],
+  "74": [
+   "Zuverlässigkeit",
+   "Flexibilität",
+   "Aktualität",
+   "Kostenintensiv"
+  ],
+  "75": [
+   "Hinzufügen und Entfernen von Anwendungen in Kachelgruppen",
+   "Ändern der Schriftart",
+   "Hinzufügen und Entfernen von Katalogen",
+   "Ändern von Apps gefilterte Berichtsergebnisse"
+  ],
+  "76": [
+   "Die App ist keiner ihrer verfügbaren Kachelgruppen zugeordnet",
+   "Es handelt sich nicht um eine native App",
+   "Die App hat kein Aktivierungskennzeichen"
+  ],
+  "77": [
+   "Zusätzliche visuelle Schichten",
+   "Mehr Details in Mikrointeraktionen",
+   "Auswahlmöglichkeiten für die Tastaturbelegung",
+   "Dynamisierung von App-Prozessen"
+  ],
+  "78": [
+   "Rollen und Bereiche",
+   "Gruppen und Seiten",
+   "Kataloge und Seiten",
+   "Bereiche und Gruppen"
+  ],
+  "79": [
+   "Konfiguration",
+   "Customizing",
+   "Kataloge",
+   "Personalisierung",
+   "Datenelemente"
+  ],
+  "80": [
+   "Sie haben keine Release-Version für ihre Suche angegeben",
+   "Die App ist in keinem der ihnen zur Verfügung stehenden Kataloge enthalten",
+   "Die App wurde im System gesperrt"
+  ],
+  "81": [
+   "Benutzerpflege (Transaktion SU01)",
+   "SAP Fiori Launchpad Designer",
+   "Rollenpflege (Transaktion PFCG)"
+  ],
+  "82": [
+   "Funktionale Möglichkeiten",
+   "Einfachheit",
+   "Reaktionsfähigkeit",
+   "Rollenbasierter Ansatz",
+   "Flexibilität"
+  ],
+  "83": [
+   "Gruppen",
+   "Bereiche",
+   "Seiten",
+   "Kataloge"
+  ],
+  "84": [
+   "Die Seite ist der Rolle des Benutzers nicht zugeordnet",
+   "Der Bereich ist der Rolle des Benutzers nicht zugeordnet",
+   "Die Kachel ist der Rolle des Benutzers nicht zugeordnet",
+   "Die Seite ist in dem Bereich nicht sichtbar"
+  ],
+  "85": [
+   "Netzwerkexperten",
+   "Gelegentlicher Benutzer",
+   "Experte",
+   "Datenbankadministrator",
+   "Entwickler"
+  ],
+  "86": [
+   "Höhere Produktivität – schneller, direkter Zugriff auf relevante Informationen und Apps",
+   "Ermöglicht Benutzern schnelle und begründete Aktionen",
+   "Höhere Benutzerzufriedenheit",
+   "Schlägt vor, welche Anwendung als nächstes zu verwenden ist",
+   "Übernimmt automatisch arbeiten, um Benutzern zu helfen, ihre Arbeit einfacher zu erledigen"
+  ],
+  "87": [
+   "SAP NetWeaver BI",
+   "Analytische SAP Fiori-Apps",
+   "SAP Analysis für Microsoft Office",
+   "SAP Lumira"
+  ],
+  "88": [
+   "Er ist nur für die Cloud-Version verfügbar",
+   "Er basiert auf ABAP Web Dynpro und nutzt das Rasterlayout",
+   "Er ist für die Cloud- und On-Premise-Version verfügbar",
+   "Er enthält vordefinierte Kennzahlen (KPIs)"
+  ],
+  "89": [
+   "KPI-Modellierungs-Apps",
+   "Abfrage-Browser",
+   "Query Designer",
+   "Analytische SAP Fiori-Apps"
+  ],
+  "90": [
+   "Sie enthalten eine feste Anzahl von Schichten",
+   "Sie bestehen aus einer Hierarchie von Views",
+   "Sie existiert nur vorübergehend",
+   "Sie ermöglichen einen direkten Zugriff auf die Datenbanktabellen"
+  ],
+  "91": [
+   "Mehrdimensionales Reporting mit SAP Fiori",
+   "Abfrage-Browser",
+   "Analytische SAP-Fiori-Apps",
+   "SAP Predictive Analytics",
+   "SAP Lumira"
+  ],
+  "92": [
+   "Vordefinierte Kennzahlen (KPIs)",
+   "Visualisierung von Datenmustern",
+   "Filtern von Anwendungskomponenten",
+   "Storyboards"
+  ],
+  "93": [
+   "Abfrage-Browser",
+   "SAP Lumina",
+   "SAP Analysis für Microsoft Office",
+   "Analytische SAP-Fiori-Apps"
+  ],
+  "94": [
+   "Operative Analysefunktionen",
+   "Extensive BI-Szenarien",
+   "Langfristige Managementanalysen",
+   "SAP Smart Business Cockpit"
+  ],
+  "95": [
+   "Richtig",
+   "Falsch"
+  ],
+  "96": [
+   "Richtig",
+   "Falsch"
+  ],
+  "97": [
+   "SAP S/4HANA funktioniert in Echtzeit, wodurch alle Analysen immer auf neuesten Stand sind",
+   "Analysen und Transaktionen sind nicht mehr als verschiedene Aufgaben betrachtet, sondern werden kombiniert",
+   "Analysen und Transaktionen werden als verschiedene Aufgaben betrachtet"
+  ],
+  "98": [
+   "Zunahme der Gerätevernetzung",
+   "Benutzer übernehmen immer mehr technische IT-Aufgaben",
+   "Zunehmende Verbreitung von mobilen Geräten",
+   "Einzug des Cloud Computing"
+  ],
+  "99": [
+   "Der optimierte ABAP-Code, den wir für Suite on SAP HANA entwickelt haben,  würde mit SAP S/4HANA nicht funktionieren.",
+   "Um das einfachere Datenmodell zu nutzen.",
+   "SAP S/4HANA wird nun mit Java geschrieben",
+   "Um sicherzustellen, dass der Code für SAP HANA optimiert ist."
+  ],
+  "100": [
+   "Enterprise Resource Management",
+   "Enterprise Management",
+   "Enterprise Central Component",
+   "Enterprise Line of Business (LoB)"
+  ],
+  "101": [
+   "Mobile Technologie",
+   "Benutzerfreundlichkeit",
+   "Datenmodell",
+   "Reporting-Tool"
+  ],
+  "102": [
+   "SAP S/4HANA",
+   "SAP S/4HANA Cloud"
+  ],
+  "103": [
+   "Feuer",
+   "Blume",
+   "Furie",
+   "Schnell"
+  ],
+  "104": [
+   "Höhere Produktivität",
+   "Ermöglicht Benutzern schnelle und begründete Aktionen",
+   "Legt den Schwerpunkt auf die Business Function",
+   "Erhöht die Benutzerzufriedenheit"
+  ],
+  "105": [
+   "Richtig",
+   "Falsch"
+  ],
+  "106": [
+   "Statusleiste",
+   "Menüpfad",
+   "Rollenleiste",
+   "Anwendungsfunktionsleiste"
+  ],
+  "107": [
+   "Internetadressen",
+   "Transaktionen",
+   "Verknüpfungen zu Dateien"
+  ],
+  "108": [
+   "F1",
+   "F4",
+   "Systemhilfe",
+   "F11",
+   "Hilfe zur Anwendung"
+  ],
+  "109": [
+   "Werk",
+   "Lagerort",
+   "Buchungskreis",
+   "Mandant"
+  ],
+  "110": [
+   "Richtig",
+   "Falsch"
+  ],
+  "111": [
+   "Buchungskreis",
+   "Mandant",
+   "Werk",
+   "Alle genannten Optionen",
+   "Keine der Genannten"
+  ],
+  "112": [
+   "Stammdaten werden zentral angelegt und sind für alle Anwendungen und alle  entsprechend berechtigten Benutzer verfügbar.",
+   "Stammdaten senken die Datenredundanz.",
+   "Stammdaten sind in Sichten gegliedert, die Organisationselementen zugeordnet  sind."
+  ],
+  "113": [
+   "Richtig",
+   "Falsch"
+  ],
+  "114": [
+   "Bericht",
+   "Protokoll",
+   "Beleg",
+   "Bestand"
+  ],
+  "115": [
+   "Anfrage, Kundenauftrag, Bestellung und Lieferung",
+   "Bestellanforderung, Bestellung, Wareneingang und Rechnungseingang",
+   "Kundenauftrag, Fertigungsauftrag und Bestellung",
+   "Wareneingang, Bestellung, Rechnungseingang und Lieferantenstamm"
+  ],
+  "116": [
+   "Das System schlägt Daten aus der Bestellung vor.",
+   "Das System schlägt Daten aus der Bestellung und dem Wareneingang vor.",
+   "Das System schlägt Daten nur aus dem Wareneingang vor."
+  ],
+  "117": [
+   "Absatz- und Produktionsgrobplanung",
+   "Lieferabwicklung",
+   "Materialbedarfsplanung",
+   "Produktionsdurchführung",
+   "Leitteileplanung"
+  ],
+  "118": [
+   "Auftragskomponenten",
+   "Produktionstermine",
+   "Produktionsanweisungen",
+   "Auftragskosten",
+   "Alle genannten Optionen",
+   "Keine der Genannten"
+  ],
+  "119": [
+   "Disaggregation",
+   "Rückmeldung",
+   "Materialbedarfsplanung",
+   "Kalkulation"
+  ],
+  "120": [
+   "Kommissionierung, Kundenauftrag, Warenausgang, Fakturierung und Lieferung",
+   "Kundenauftrag, Kommissionierung, Warenausgang, Fakturierung und Lieferung",
+   "Kundenauftrag, Lieferung, Kommissionierung, Warenausgang und Fakturierung",
+   "Warenausgang, Kommissionierung, Kundenauftrag, Lieferung und Fakturierung"
+  ],
+  "121": [
+   "Kommissionierung",
+   "Lastschrift",
+   "Gutschrift",
+   "Warenausgang"
+  ],
+  "122": [
+   "Anfrage",
+   "Kundenauftrag",
+   "Angebot",
+   "Bonusliste",
+   "Lieferung"
+  ],
+  "123": [
+   "Buchungskreis",
+   "Sachkonto",
+   "Journalbuchung",
+   "Kontenplan"
+  ],
+  "124": [
+   "Buchungskreis",
+   "Profitcenter",
+   "Kostenrechnungskreis",
+   "Ergebnisbereich"
+  ],
+  "125": [
+   "Richtig",
+   "Falsch"
+  ],
+  "126": [
+   "Richtig",
+   "Falsch"
+  ],
+  "127": [
+   "Abfrage-Browser",
+   "Design Studio",
+   "SAP-Fiori-Analyse-Apps",
+   "Abfrage-Designer",
+   "SAP Smart Business Cockpits"
+  ],
+  "128": [
+   "SAP HANA Live Browser",
+   "KPI-Builder",
+   "Design Studio",
+   "Abfrage-Designer"
+  ],
+  "129": [
+   "Für Analysen optimierte Datenbankkopie",
+   "Reportingwerkzeuge für Benutzer",
+   "Sofort nutzbare Datensichten",
+   "Sofort einsatzfähige Geschäftsberichte"
+  ],
+  "130": [
+   "Methodik",
+   "Leistungsoptimierung",
+   "Geführte Konfiguration",
+   "SAP Best Practices"
+  ],
+  "131": [
+   "Systemkonvertierung",
+   "Neue Implementierung",
+   "Transformation der Landschaft",
+   "Datenbankmigration"
+  ],
+  "132": [
+   "Richtig",
+   "Falsch"
+  ],
+  "133": [
+   "Richtig",
+   "Falsch"
+  ],
+  "134": [
+   "Wachstum digitaler Informationen und Komplexität in einem Unternehmen",
+   "Fortschritte in der Technologie und Notwendigkeit der Zentralisierung von  Informationen",
+   "Fortschritte bei der Mobiltechnologie"
+  ],
+  "135": [
+   "SAP S/4HANA ist ein ERP-System der nächsten Generation von SAP.",
+   "Die SAP-HANA-Datenbank ist ein integraler Bestandteil des SAP-S/4HANA\u0002Systems.",
+   "SAP S/4HANA enthält eingebettete SAP-SuccessFactors-Lösungen.",
+   "SAP S/4HANA enthält eingebettetes SAP SCM APO."
+  ],
+  "136": [
+   "Erhöhtes Datenvolumen, mit dem Prozesse umgehen müssen",
+   "Notwendigkeit einer skalierbaren Infrastruktur",
+   "Weniger Digitalisierung",
+   "ausgereifte ERP-Kernprozesse"
+  ],
+  "137": [
+   "SAP-Fiori-Gruppe",
+   "SAP-Fiori-Gruppenkachel",
+   "SAP-Fiori-Katalog",
+   "SAP-Fiori-Katalogkachel"
+  ],
+  "138": [
+   "SAP-Fiori-Gruppe",
+   "SAP-Fiori-Gruppenkachel",
+   "SAP-Fiori-Katalog",
+   "SAP-Fiori-Katalogkachel"
+  ],
+  "139": [
+   "SAP Business Client",
+   "Klassisches Bild",
+   "Web Dynpro",
+   "SAPUI 5"
+  ],
+  "140": [
+   "Konfiguration",
+   "Personalisierung",
+   "Customizing",
+   "Internationalisierung"
+  ],
+  "141": [
+   "Zielzuordnung",
+   "Semantisches Objekt",
+   "Aktion",
+   "ICF-Pfad"
+  ],
+  "142": [
+   "Web-Dynpro-Anwendung",
+   "Generische URL",
+   "ABAP-Transaktion",
+   "SAPUI5-Anwendung"
+  ],
+  "143": [
+   "Bereiche und Seiten",
+   "Kataloge und Gruppen",
+   "Kataloge und Spaces",
+   "Gruppen und Seiten"
+  ],
+  "144": [
+   "Bereiche",
+   "Seiten",
+   "Gruppen",
+   "Catalogs"
+  ],
+  "145": [
+   "Der optimierte ABAP-Code, den wir für Suite on HANA entwickelt haben, würde mit  SAP S/4HANA nicht funktionieren",
+   "Um das einfachere Datenmodell zu nutzen",
+   "SAP S/4HANA wird nun mit Java geschrieben",
+   "Um sicherzustellen, dass der Code für SAP HANA optimiert ist."
+  ],
+  "146": [
+   "SAP Ariba",
+   "LinkedIn",
+   "Concur",
+   "SAP Fieldglass",
+   "SAP Hybris"
+  ],
+  "147": [
+   "Unterstützung von Data-Aging-Strategien",
+   "Spaltenspeichertabellen",
+   "Ad-hoc-Aggregation aus Positionstabellen",
+   "Verwendung eines hierarchischen Caches"
+  ],
+  "148": [
+   "Verwendung spezieller Aggregationstabellen",
+   "Kompatibilität mit allen Datenbanken",
+   "Übernahme von datenintensiven Aufgaben durch SAP HANA",
+   "Geringere Anzahl von Tabellen",
+   "Keine Datenredundanz"
+  ],
+  "149": [
+   "Richtig",
+   "Falsch"
+  ],
+  "150": [
+   "Offene APIs",
+   "Integration",
+   "Edge Computing",
+   "Microservices"
+  ],
+  "151": [
+   "Transaktional",
+   "Infoblatt",
+   "Analytisch",
+   "Personas"
+  ],
+  "152": [
+   "Richtig",
+   "Falsch"
+  ],
+  "153": [
+   "Richtig",
+   "Falsch"
+  ],
+  "154": [
+   "Richtig",
+   "Falsch"
+  ],
+  "155": [
+   "Mehrkernprozessoren",
+   "Kostengünstigere und größere Speicher",
+   "Schnellere Festplatten",
+   "Mehrere parallel arbeitende CPUs"
+  ],
+  "156": [
+   "Spalte",
+   "Zeile",
+   "Vektor",
+   "Flat"
+  ],
+  "157": [
+   "Filter",
+   "Aggregieren",
+   "Validieren der Bildeingabe",
+   "Sortieren"
+  ],
+  "158": [
+   "Richtig",
+   "Falsch"
+  ],
+  "159": [
+   "Warm-Standby",
+   "Savepoint",
+   "Hot-Standby",
+   "Failover"
+  ],
+  "160": [
+   "Richtig",
+   "Falsch"
+  ],
+  "161": [
+   "Vertriebsmitarbeiter für Auftragsabwicklung und Fakturierung",
+   "Dispositionsverantwortlicher",
+   "Sachbearbeiter für die Beschaffung",
+   "Disponent"
+  ],
+  "162": [
+   "Richtig",
+   "Falsch"
+  ],
+  "163": [
+   "Richtig",
+   "Falsch"
+  ],
+  "164": [
+   "Erweiterte Transportterminierung",
+   "Massenfähige Schnellverfügbarkeitsprüfung",
+   "Anwendungsfallgesteuerte Kontingentierungsprüfung",
+   "Halbmanuelle Werksersetzung"
+  ],
+  "165": [
+   "Richtig",
+   "Falsch"
+  ],
+  "166": [
+   "Richtig",
+   "Falsch"
+  ],
+  "167": [
+   "Variantenkonfiguration",
+   "Project Financials Control",
+   "Technische Projektsteuerung",
+   "Foundation der Produktentwicklung"
+  ],
+  "168": [
+   "Richtig",
+   "Falsch"
+  ],
+  "169": [
+   "Richtig",
+   "Falsch"
+  ],
+  "170": [
+   "Richtig",
+   "Falsch"
+  ],
+  "171": [
+   "Richtig",
+   "Falsch"
+  ],
+  "172": [
+   "SAP S/4HANA Embedded Analytics konzentrieren sich auf ausführlichere,  fortschrittlichere BI-Szenarien.",
+   "SAP S/4HANA Embedded Analytics sind in der Lizenz der SAP-S/4HANA\u0002Kernlösung inbegriffen.",
+   "SAP S/4HANA Embedded Analytics konzentrieren sich auf Operational Analytics.",
+   "SAP S/4HANA Embedded Analytics verwenden ein SAP-BW-System überall dort,  wo eine tiefgreifende multidimensionale Analyse erforderlich ist."
+  ],
+  "173": [
+   "Für Analysen optimierte Datenbankkopie",
+   "Reportingwerkzeuge für Benutzer",
+   "Sofort nutzbare Datensichten",
+   "Sofort einsatzfähige Geschäftsberichte"
+  ],
+  "174": [
+   "SAP HANA Live",
+   "Universen",
+   "Logische ABAP-Datenbanken",
+   "ABAP-CDS-Views"
+  ],
+  "175": [
+   "Client für mehrdimensionales Reporting",
+   "Query-Designer",
+   "Smart Business Cockpits",
+   "SAP BusinessObjects Analysis, Edition für Microsoft Office"
+  ],
+  "176": [
+   "CDS-Viewpflege mit Eclipse",
+   "Query-Designer",
+   "SAP-Fiori-Analyse-Apps",
+   "Benutzerdefinierte CDS-View"
+  ],
+  "177": [
+   "Zum Bereitstellen eines Managementframeworks während des gesamten  Datenlebenszyklus",
+   "Zum Konsolidieren mehrerer Datenquellen",
+   "Zum Unterstützen von Geschäftsanwendungen powered by SAP BW",
+   "Zum Bereitstellen von SAP S/4HANA Embedded Analytics mit Echtzeitdaten"
+  ],
+  "178": [
+   "Richtig",
+   "Falsch"
+  ],
+  "179": [
+   "Konvertierung des Systems",
+   "Neue Implementierung",
+   "Transformation der Landschaft",
+   "Datenbankmigration"
+  ],
+  "180": [
+   "Kennenlernen – Bereitstellen – Umsetzen – Vorbereiten",
+   "Kennenlernen – Umsetzen – Bereitstellen – Vorbereiten",
+   "Vorbereiten – Kennenlernen – Umsetzen – Bereitstellen",
+   "Vorbereiten – Umsetzen – Kennenlernen – Bereitstellen",
+   "Kennenlernen – Vorbereiten – Bereitstellen – Umsetzen"
+  ],
+  "181": [
+   "Lösungspaket",
+   "Umfangspositionen",
+   "Konfigurationsleitfäden",
+   "Bausteine"
+  ],
+  "182": [
+   "Verwendung objektorientierter ABAP",
+   "Verwendung von Pool- und Cluster-Tabellen",
+   "Verwendung von Native SQL",
+   "Verwendung von Datenbankhinweisen",
+   "Verwendung von Select ALL"
+  ],
+  "183": [
+   "Richtig",
+   "Falsch"
+  ]
+ },
+ "solutions": {
+  "0": [
+   "Statusmeldungen in Dialogfenstern anzeigen",
+   "Das Layout des Bilds: SAP EASY ACCESS ändern",
+   "Farben sowie das Verhalten der Bilder und Felder anpassen"
+  ],
+  "1": [
+   "Internetadressen",
+   "Verknüpfungen zu Dateien",
+   "Transaktionen"
+  ],
+  "2": [
+   "Systemfunktionsleiste",
+   "Kommandofeld",
+   "Registerkarte"
+  ],
+  "3": [
+   "Den Transaktionscode in der Statusleiste anzeigen lassen",
+   "Den Transaktionscode in der Anwendung ermitteln, indem Sie System – Status wählen"
+  ],
+  "4": [
+   "Einträge aus der Favoritenliste auswählen",
+   "Einen Transaktionscode in das Befehlsfeld eingeben"
+  ],
+  "5": [
+   "Richtig"
+  ],
+  "6": [
+   "Programmname",
+   "Antwortzeit",
+   "Benutzer-ID"
+  ],
+  "7": [
+   "Systemverbindungstyp SAP Fiori Launchpad",
+   "Systemverbindungstyp SAP Business Client",
+   "Systemverbindungstyp SAP Logon"
+  ],
+  "8": [
+   "Mandant",
+   "Benutzer",
+   "Kennwort"
+  ],
+  "9": [
+   "Das SAP Menü",
+   "Das Befehlsfeld / Kommandofeld"
+  ],
+  "10": [
+   "SAP-Standardmenü",
+   "Rollenbasiertes Benutzermenü"
+  ],
+  "11": [
+   "Das Layout des Bilds „SAP Easy Access“ ändern",
+   "Die Eingabehistorie protokollieren, um Eingabehilfen zu erhalten",
+   "Statusmeldungen in Dialogfenstern statt in der Statusleiste anzeigen",
+   "Favoriten in Ordnern zu organisieren"
+  ],
+  "12": [
+   "Die Sichten in einem Materialstamm können mehreren Organisationseinheiten zugeordnet werden",
+   "Alle logistischen Stammdaten sind werksbezogen"
+  ],
+  "13": [
+   "Person",
+   "Organisation",
+   "Gruppe"
+  ],
+  "14": [
+   "Geschäftspartner können in manchen Prozessen als Debitor und in anderen als Kreditor agieren",
+   "Debitoren- und Kreditorenstammdaten können in S4/HANA in einer einzigen Transaktion gepflegt werden"
+  ],
+  "15": [
+   "Mandant",
+   "Werk",
+   "Vertriebsweg"
+  ],
+  "16": [
+   "Richtig"
+  ],
+  "17": [
+   "Richtig"
+  ],
+  "18": [
+   "Die Produktstammdaten (Materialstamm) enthalten alle wichtigen Informationen, die ein Unternehmen benötigt, um ein Material innerhalb seiner Organisation zu verwalten.",
+   "Die Produktstammdaten (Materialstamm) definieren unter anderem, wie ein Produkt vertrieben, hergestellt, eingekauft, eingelagert, abgerechnet und kalkuliert wird.",
+   "Die Informationen in den Produktstammdaten (Materialstamm) sind in Sichten gruppiert, die nach Business Function organisiert sind."
+  ],
+  "19": [
+   "Vertriebsbereich",
+   "Kundenreferenz",
+   "Auftraggeber (Kunde)"
+  ],
+  "20": [
+   "Warenausgang"
+  ],
+  "21": [
+   "Bezug auf ein Angebot",
+   "Bezug auf eine Anfrage"
+  ],
+  "22": [
+   "Kundenauftrag – Auslieferung – Kommissionierung – Warenausgang – Fakturabeleg"
+  ],
+  "23": [
+   "Erfassung erbrachter Eigenleistungen zu einem Auftrag",
+   "Fortschrittsprüfung eines Auftrags"
+  ],
+  "24": [
+   "Der Lagerbestand wird reduziert",
+   "Die Bedarfe werden um die Liefermenge reduziert"
+  ],
+  "25": [
+   "Bedarfsermittlung -Lieferantenauswahl – Bestellung– Wareneingang – Rechnungsprüfung"
+  ],
+  "26": [
+   "Lagerort"
+  ],
+  "27": [
+   "HCM- und Personaldaten können mit der Rückmeldung aktualisiert werden",
+   "Rückmeldungen können auch manuell eingegeben werden"
+  ],
+  "28": [
+   "Die Profitabilität von Produkten wird in Echtzeit berechnet",
+   "Kleinere Losgrößen können nach Bedarf verarbeitet werden",
+   "Da die Bestandsführung in Echtzeit erfolgt, sind keine Pufferbestände zum Ausgleich von Ungenauigkeiten mehr erforderlich"
+  ],
+  "29": [
+   "Der Rechnungseingang kann nicht gesichert werden"
+  ],
+  "30": [
+   "Simulation",
+   "Einzelfaktura",
+   "Sammelfaktura"
+  ],
+  "31": [
+   "Ein Auftrag kann vollständig freigegeben werden",
+   "Die zeitgleiche Freigabe von mehreren Aufträgen ist nur mit Hintergrundverarbeitung möglich"
+  ],
+  "32": [
+   "Auslieferungen können Teillieferungen sein",
+   "Auslieferungen können automatisch generiert werden",
+   "Auslieferungen können über Arbeitsvorräte generiert werden"
+  ],
+  "33": [
+   "Sie buchen den Wareneingang und geben die Lagerbestandsart: Qualitätsprüfung an"
+  ],
+  "34": [
+   "Auftragsanlage – Kapazitätsprüfung – Auftragsfreigabe – Materialbereitstellung – Rückmeldung – Wareneingang"
+  ],
+  "35": [
+   "Die Planung mit einer Losgröße von 1 ist in der Materialbedarfsplanung möglich",
+   "Die plangesteuerte Disposition ist ein Echtzeitprozess"
+  ],
+  "36": [
+   "Belegfluss"
+  ],
+  "37": [
+   "Dispositionsbereich, Version, Planungsperiode"
+  ],
+  "38": [
+   "Bestellkooperation",
+   "Self-Service-Anforderung",
+   "Beschaffung"
+  ],
+  "39": [
+   "Als PDF exportieren",
+   "Anzeigen der Konten, die nicht der Struktur Bilanz/GuV zugeordnet sind.",
+   "Hauptbuchsalden anzeigen"
+  ],
+  "40": [
+   "Der Kontenplan ist ein Verzeichnis aller Sachkonten, die von einem oder mehreren Buchungskreisen gemeinsam verwendet werden",
+   "Ein Kontenplan kann mehreren Buchungskreisen zugeordnet sein"
+  ],
+  "41": [
+   "Einzelposten und Salden von Konten erzeugen",
+   "Bilanzen unterhalb der Buchungskreisebene (z.B. Segment oder Profitcenter) erstellen",
+   "Bilanzen/GuV für einen Buchungskreis erstellen und anzeigen"
+  ],
+  "42": [
+   "Profitcenter"
+  ],
+  "43": [
+   "Zahlweg und Bank auswählen – Positionen zur Zahlung auswählen – Zahlbetrag errechnen – Zahlungsbeleg buchen – Zahlungsträger drucken"
+  ],
+  "44": [
+   "In SAP S/4HANA können Sie im Hauptbuch auf ein Sachkonto der Kontoart: Sekundärkostenart buchen",
+   "Ein Sachkonto mit der Kontoart: Neutraler Aufwand wird nur in der Finanzbuchhaltung gebucht"
+  ],
+  "45": [
+   "Einem Kostenrechnungskreis können mehrere Buchungskreise zugeordnet sein",
+   "Einem Ergebnisbereich können mehrere Kostenrechnungskreise zugeordnet sein"
+  ],
+  "46": [
+   "Das Kontierungsobjekt"
+  ],
+  "47": [
+   "Profitcenter"
+  ],
+  "48": [
+   "Detailinformationen zum Sachkonto",
+   "Verwendungsnachweis"
+  ],
+  "49": [
+   "Kreditorenbuchhaltung",
+   "Debitorenbuchhaltung",
+   "Anlagenbuchhaltung"
+  ],
+  "50": [
+   "Stammdaten für einen Debitor anzeigen",
+   "Fälligkeitsraster anzeigen",
+   "Übersicht aller offenen Rechnungen eines Debitors"
+  ],
+  "51": [
+   "Innenaufträge",
+   "Kostenstellen"
+  ],
+  "52": [
+   "Ergebnisbereich"
+  ],
+  "53": [
+   "Die Debitorenbuchhaltung lässt sich mit dem Cashmanagement verknüpfen",
+   "Die Debitorenbuchhaltung ist ein Teil des Rechnungswesens",
+   "Die Debitorenbuchhaltung stellt die erforderlichen Daten für das Kreditmanagement bereit"
+  ],
+  "54": [
+   "Hinzufügen von Feldern zum Drilldown-Bericht",
+   "Zur Einzelkalkulation der Kostenstelle navigieren",
+   "Zum Infoblatt der Kostenstelle navigieren"
+  ],
+  "55": [
+   "Der Beleg, der die Buchung auslöst, wird im SAP-System angezeigt",
+   "Sie besteht aus zwei oder mehr Belegpositionen"
+  ],
+  "56": [
+   "Kontenpläne"
+  ],
+  "57": [
+   "Ein Werk ist stets nur einem Buchungskreis zugeordnet und existiert in jedem Mandanten nur einmal. Somit ist die Ableitung von Werk zu Buchungskreis eindeutig."
+  ],
+  "58": [
+   "Angabe des Benutzernamens",
+   "Wahl des Systems im Logon-Pad",
+   "Eingabe des Kennwortes",
+   "Angabe des Mandanten falls nicht voreingestellt"
+  ],
+  "59": [
+   "Stammdaten sind in Sichten gegliedert, die Organisationselementen zugeordnet sind.",
+   "Sie werden typischerweise Organisationsebenen zugeordnet",
+   "Stammdaten werden zentral angelegt und sind für alle Anwendungen und alle entsprechend berechtigten Benutzer verfügbar.",
+   "Sie werden auf längere Sicht für verschiedene Geschäftsprozesse verwendet."
+  ],
+  "60": [
+   "Ein Buchungskreis ist die kleinste Organisationseinheit des externen Rechnungswesens, für die eine vollständige, in sich abgeschlossene Buchhaltung abgebildet werden kann."
+  ],
+  "61": [
+   "Die Bearbeitung und Zahlung von Rechnungen ist Aufgabe der Finanzbuchhaltung.",
+   "Gutschriften werden in der Finanzbuchhaltung bearbeitet."
+  ],
+  "62": [
+   "Analytische Apps stellen Insight-to-Action bereit."
+  ],
+  "63": [
+   "Analysen und Prognosen",
+   "Text-Mining"
+  ],
+  "64": [
+   "SAP Business Warehouse",
+   "SAP Lumira, Design Edition",
+   "SAP Analysis für Microsoft Office"
+  ],
+  "65": [
+   "Tabellen werden automatisch komprimiert",
+   "Zahlreiche Tabellen wurden eliminiert"
+  ],
+  "66": [
+   "OLTP und OLAP werden auf einer einzelnen In-Memory-Plattform miteinander kombiniert",
+   "Alle Analysen werden direkt in den Transaktionstabellen durchgeführt"
+  ],
+  "67": [
+   "Public Cloud Services (SAP S/4HANA Cloud)"
+  ],
+  "68": [
+   "Optimierter Cache (schnellere Übertragung)",
+   "Die Verbesserung von Cloud-Computing-Technologien",
+   "Die Vergrößerung von Serverlandschaften (z.B. Prozessorleistung)"
+  ],
+  "69": [
+   "Die Globalisierung und Ausbreitung von Unternehmensnetzwerken",
+   "Das Internet der Dinge",
+   "Die exponentielle Zunahme digitaler Daten"
+  ],
+  "70": [
+   "Der Mandant ist die Organisationseinheit auf der höchsten Ebene",
+   "Die Materialbestände innerhalb eines Werks werden anhand ihres Lagerorts unterschieden"
+  ],
+  "71": [
+   "SAP S/4HANA baut auf SAP HANA auf und übernimmt somit alle Funktionen dieser leistungsfähigen Plattform für Datenmanagement und Anwendungen.",
+   "Zu den Funktionen von SAP S/4HANA zählen Vorhersageanalysen und Simulationen.",
+   "SAP S/4HANA kann On-Premise, in der Cloud oder in einer Kombination aus beidem bereitgestellt werden"
+  ],
+  "72": [
+   "SAP Ariba",
+   "SAP SuccessFactors"
+  ],
+  "73": [
+   "Datengewinnung",
+   "Informationsanalyse",
+   "Entscheidungsfindung",
+   "Aktionsausführung"
+  ],
+  "74": [
+   "Zuverlässigkeit",
+   "Flexibilität",
+   "Aktualität"
+  ],
+  "75": [
+   "Hinzufügen und Entfernen von Anwendungen in Kachelgruppen",
+   "Ändern von Apps gefilterte Berichtsergebnisse"
+  ],
+  "76": [
+   "Die App ist keiner ihrer verfügbaren Kachelgruppen zugeordnet"
+  ],
+  "77": [
+   "Zusätzliche visuelle Schichten",
+   "Mehr Details in Mikrointeraktionen"
+  ],
+  "78": [
+   "Rollen und Bereiche"
+  ],
+  "79": [
+   "Konfiguration",
+   "Customizing",
+   "Personalisierung"
+  ],
+  "80": [
+   "Die App ist in keinem der ihnen zur Verfügung stehenden Kataloge enthalten"
+  ],
+  "81": [
+   "SAP Fiori Launchpad Designer"
+  ],
+  "82": [
+   "Funktionale Möglichkeiten",
+   "Einfachheit",
+   "Rollenbasierter Ansatz"
+  ],
+  "83": [
+   "Bereiche",
+   "Seiten"
+  ],
+  "84": [
+   "Die Seite ist der Rolle des Benutzers nicht zugeordnet",
+   "Der Bereich ist der Rolle des Benutzers nicht zugeordnet"
+  ],
+  "85": [
+   "Gelegentlicher Benutzer",
+   "Experte",
+   "Entwickler"
+  ],
+  "86": [
+   "Höhere Produktivität – schneller, direkter Zugriff auf relevante Informationen und Apps",
+   "Ermöglicht Benutzern schnelle und begründete Aktionen",
+   "Höhere Benutzerzufriedenheit"
+  ],
+  "87": [
+   "Analytische SAP Fiori-Apps"
+  ],
+  "88": [
+   "Er basiert auf ABAP Web Dynpro und nutzt das Rasterlayout",
+   "Er ist für die Cloud- und On-Premise-Version verfügbar"
+  ],
+  "89": [
+   "KPI-Modellierungs-Apps",
+   "Query Designer"
+  ],
+  "90": [
+   "Sie bestehen aus einer Hierarchie von Views"
+  ],
+  "91": [
+   "Mehrdimensionales Reporting mit SAP Fiori",
+   "Abfrage-Browser",
+   "Analytische SAP-Fiori-Apps"
+  ],
+  "92": [
+   "Vordefinierte Kennzahlen (KPIs)"
+  ],
+  "93": [
+   "Abfrage-Browser",
+   "Analytische SAP-Fiori-Apps"
+  ],
+  "94": [
+   "Operative Analysefunktionen",
+   "SAP Smart Business Cockpit"
+  ],
+  "95": [
+   "Richtig"
+  ],
+  "96": [
+   "Richtig"
+  ],
+  "97": [
+   "SAP S/4HANA funktioniert in Echtzeit, wodurch alle Analysen immer auf neuesten Stand sind",
+   "Analysen und Transaktionen sind nicht mehr als verschiedene Aufgaben betrachtet, sondern werden kombiniert"
+  ],
+  "98": [
+   "Zunahme der Gerätevernetzung",
+   "Zunehmende Verbreitung von mobilen Geräten",
+   "Einzug des Cloud Computing"
+  ],
+  "99": [
+   "Um das einfachere Datenmodell zu nutzen.",
+   "Um sicherzustellen, dass der Code für SAP HANA optimiert ist."
+  ],
+  "100": [
+   "Enterprise Management"
+  ],
+  "101": [
+   "Benutzerfreundlichkeit"
+  ],
+  "102": [
+   "SAP S/4HANA"
+  ],
+  "103": [
+   "Blume"
+  ],
+  "104": [
+   "Höhere Produktivität",
+   "Ermöglicht Benutzern schnelle und begründete Aktionen",
+   "Erhöht die Benutzerzufriedenheit"
+  ],
+  "105": [
+   "Richtig"
+  ],
+  "106": [
+   "Statusleiste"
+  ],
+  "107": [
+   "Internetadressen",
+   "Transaktionen",
+   "Verknüpfungen zu Dateien"
+  ],
+  "108": [
+   "F1"
+  ],
+  "109": [
+   "Mandant"
+  ],
+  "110": [
+   "Richtig"
+  ],
+  "111": [
+   "Alle genannten Optionen"
+  ],
+  "112": [
+   "Stammdaten werden zentral angelegt und sind für alle Anwendungen und alle  entsprechend berechtigten Benutzer verfügbar.",
+   "Stammdaten senken die Datenredundanz.",
+   "Stammdaten sind in Sichten gegliedert, die Organisationselementen zugeordnet  sind."
+  ],
+  "113": [
+   "Richtig"
+  ],
+  "114": [
+   "Beleg"
+  ],
+  "115": [
+   "Bestellanforderung, Bestellung, Wareneingang und Rechnungseingang"
+  ],
+  "116": [
+   "Das System schlägt Daten aus der Bestellung und dem Wareneingang vor."
+  ],
+  "117": [
+   "Absatz- und Produktionsgrobplanung",
+   "Materialbedarfsplanung",
+   "Produktionsdurchführung",
+   "Leitteileplanung"
+  ],
+  "118": [
+   "Alle genannten Optionen"
+  ],
+  "119": [
+   "Rückmeldung"
+  ],
+  "120": [
+   "Kundenauftrag, Lieferung, Kommissionierung, Warenausgang und Fakturierung"
+  ],
+  "121": [
+   "Kommissionierung",
+   "Warenausgang"
+  ],
+  "122": [
+   "Kundenauftrag",
+   "Lieferung"
+  ],
+  "123": [
+   "Sachkonto"
+  ],
+  "124": [
+   "Ergebnisbereich"
+  ],
+  "125": [
+   "Richtig"
+  ],
+  "126": [
+   "Richtig"
+  ],
+  "127": [
+   "Abfrage-Browser",
+   "SAP-Fiori-Analyse-Apps",
+   "SAP Smart Business Cockpits"
+  ],
+  "128": [
+   "KPI-Builder",
+   "Design Studio",
+   "Abfrage-Designer"
+  ],
+  "129": [
+   "Sofort nutzbare Datensichten"
+  ],
+  "130": [
+   "Methodik",
+   "Geführte Konfiguration",
+   "SAP Best Practices"
+  ],
+  "131": [
+   "Systemkonvertierung",
+   "Neue Implementierung",
+   "Transformation der Landschaft"
+  ],
+  "132": [
+   "Richtig"
+  ],
+  "133": [
+   "Falsch"
+  ],
+  "134": [
+   "Wachstum digitaler Informationen und Komplexität in einem Unternehmen",
+   "Fortschritte bei der Mobiltechnologie"
+  ],
+  "135": [
+   "SAP S/4HANA ist ein ERP-System der nächsten Generation von SAP.",
+   "Die SAP-HANA-Datenbank ist ein integraler Bestandteil des SAP-S/4HANA\u0002Systems."
+  ],
+  "136": [
+   "Erhöhtes Datenvolumen, mit dem Prozesse umgehen müssen",
+   "Notwendigkeit einer skalierbaren Infrastruktur"
+  ],
+  "137": [
+   "SAP-Fiori-Gruppe",
+   "SAP-Fiori-Katalog"
+  ],
+  "138": [
+   "SAP-Fiori-Katalogkachel"
+  ],
+  "139": [
+   "SAPUI 5"
+  ],
+  "140": [
+   "Konfiguration",
+   "Personalisierung",
+   "Customizing"
+  ],
+  "141": [
+   "Semantisches Objekt",
+   "Aktion"
+  ],
+  "142": [
+   "Web-Dynpro-Anwendung",
+   "Generische URL",
+   "ABAP-Transaktion",
+   "SAPUI5-Anwendung"
+  ],
+  "143": [
+   "Bereiche und Seiten",
+   "Kataloge und Gruppen"
+  ],
+  "144": [
+   "Seiten"
+  ],
+  "145": [
+   "Um das einfachere Datenmodell zu nutzen",
+   "Um sicherzustellen, dass der Code für SAP HANA optimiert ist."
+  ],
+  "146": [
+   "SAP Ariba",
+   "Concur",
+   "SAP Fieldglass",
+   "SAP Hybris"
+  ],
+  "147": [
+   "Unterstützung von Data-Aging-Strategien",
+   "Spaltenspeichertabellen",
+   "Ad-hoc-Aggregation aus Positionstabellen"
+  ],
+  "148": [
+   "Übernahme von datenintensiven Aufgaben durch SAP HANA",
+   "Geringere Anzahl von Tabellen",
+   "Keine Datenredundanz"
+  ],
+  "149": [
+   "Richtig"
+  ],
+  "150": [
+   "Offene APIs",
+   "Integration",
+   "Microservices"
+  ],
+  "151": [
+   "Transaktional",
+   "Infoblatt",
+   "Analytisch"
+  ],
+  "152": [
+   "Richtig"
+  ],
+  "153": [
+   "Falsch"
+  ],
+  "154": [
+   "Richtig"
+  ],
+  "155": [
+   "Mehrkernprozessoren",
+   "Kostengünstigere und größere Speicher",
+   "Mehrere parallel arbeitende CPUs"
+  ],
+  "156": [
+   "Spalte",
+   "Zeile"
+  ],
+  "157": [
+   "Filter",
+   "Aggregieren",
+   "Sortieren"
+  ],
+  "158": [
+   "Richtig"
+  ],
+  "159": [
+   "Savepoint"
+  ],
+  "160": [
+   "Falsch"
+  ],
+  "161": [
+   "Vertriebsmitarbeiter für Auftragsabwicklung und Fakturierung",
+   "Sachbearbeiter für die Beschaffung",
+   "Disponent"
+  ],
+  "162": [
+   "Richtig"
+  ],
+  "163": [
+   "Richtig"
+  ],
+  "164": [
+   "Erweiterte Transportterminierung",
+   "Massenfähige Schnellverfügbarkeitsprüfung",
+   "Anwendungsfallgesteuerte Kontingentierungsprüfung"
+  ],
+  "165": [
+   "Richtig"
+  ],
+  "166": [
+   "Richtig"
+  ],
+  "167": [
+   "Foundation der Produktentwicklung"
+  ],
+  "168": [
+   "Falsch"
+  ],
+  "169": [
+   "Richtig"
+  ],
+  "170": [
+   "Richtig"
+  ],
+  "171": [
+   "Falsch"
+  ],
+  "172": [
+   "SAP S/4HANA Embedded Analytics sind in der Lizenz der SAP-S/4HANA\u0002Kernlösung inbegriffen.",
+   "SAP S/4HANA Embedded Analytics konzentrieren sich auf Operational Analytics.",
+   "SAP S/4HANA Embedded Analytics verwenden ein SAP-BW-System überall dort,  wo eine tiefgreifende multidimensionale Analyse erforderlich ist."
+  ],
+  "173": [
+   "Sofort nutzbare Datensichten"
+  ],
+  "174": [
+   "ABAP-CDS-Views"
+  ],
+  "175": [
+   "SAP BusinessObjects Analysis, Edition für Microsoft Office"
+  ],
+  "176": [
+   "CDS-Viewpflege mit Eclipse",
+   "Benutzerdefinierte CDS-View"
+  ],
+  "177": [
+   "Zum Bereitstellen eines Managementframeworks während des gesamten  Datenlebenszyklus",
+   "Zum Konsolidieren mehrerer Datenquellen",
+   "Zum Unterstützen von Geschäftsanwendungen powered by SAP BW"
+  ],
+  "178": [
+   "Falsch"
+  ],
+  "179": [
+   "Konvertierung des Systems",
+   "Neue Implementierung",
+   "Transformation der Landschaft"
+  ],
+  "180": [
+   "Vorbereiten – Kennenlernen – Umsetzen – Bereitstellen"
+  ],
+  "181": [
+   "Lösungspaket",
+   "Umfangspositionen",
+   "Bausteine"
+  ],
+  "182": [
+   "Verwendung von Pool- und Cluster-Tabellen",
+   "Verwendung von Native SQL",
+   "Verwendung von Datenbankhinweisen",
+   "Verwendung von Select ALL"
+  ],
+  "183": [
+   "Falsch"
+  ]
+ }
+}

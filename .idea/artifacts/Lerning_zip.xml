@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Lerning.zip">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lerning_zip</output-path>
+    <root id="root">
+      <element id="archive" name="Learning.zip">
+        <element id="directory" name="json">
+          <element id="file-copy" path="$PROJECT_DIR$/json/questions.json" />
+          <element id="file-copy" path="$PROJECT_DIR$/json/SAP.json" />
+        </element>
+        <element id="artifact" artifact-name="SAPLearning:jar" />
+      </element>
+    </root>
+  </artifact>
+</component>
