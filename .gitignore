@@ -1,5 +1,7 @@
 ### IntelliJ IDEA ###
 out/
+.idea/workspace.xml
+.idea/workspace-DESKTOP-P6DMV2E.xml
 !**/src/main/**/out/
 !**/src/test/**/out/
 
