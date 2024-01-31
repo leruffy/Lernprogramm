@@ -4,8 +4,8 @@
     <root id="root">
       <element id="archive" name="Learning.zip">
         <element id="directory" name="json">
-          <element id="file-copy" path="$PROJECT_DIR$/json/questions.json" />
-          <element id="file-copy" path="$PROJECT_DIR$/json/SAP.json" />
+          <element id="file-copy" path="$PROJECT_DIR$/fragen/questions.json" />
+          <element id="file-copy" path="$PROJECT_DIR$/fragen/SAP.json" />
         </element>
         <element id="artifact" artifact-name="SAPLearning:jar" />
       </element>
